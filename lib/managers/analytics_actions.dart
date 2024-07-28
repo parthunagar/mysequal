@@ -1,0 +1,30 @@
+class AnalytictsActions {
+  static final tabbarHome = 'tabbar_home';
+  static final tabbarGoal = 'tabbar_goals';
+  static final tabbatTalk = 'tabbar_talk';
+  static final tabbarJournal = 'tabbar_journal';
+  static final createTaskSave = 'create_task_save_action';
+  static final myProfileSave = 'my_profile_save';
+  static final myProfileEdit = 'my_profile_edit';
+  static final selectedTaskReachForHelp = 'selected_task_reach_for_help';
+  static final taskDiscussiopnPoint = 'selected_task_new_discussion_point';
+  static final menuAddNewTask = 'menu_add_new_task';
+  static final menuAddNewStory = 'menu_add_new_story';
+  static final menuAdddiscussionPoint = 'menu_add_discussion_point';
+  static final addStoryHomePage = 'home_page_add_story';
+  static final deleteJournal = 'journal_delete';
+  static final expandGoal = 'goal_expand';
+  static final addMemberGoals = 'goal_details_add_member';
+  static final updateTaskSelected = 'selected_task_update_task';
+  static final updateTaskHomePage = 'home_page_update_task';
+  static final openTaskHomePage = 'home_page_open_task';
+  static final discussionList = 'discussion_list_delete';
+  static final privacyApprove = 'privacy_approve';
+  static final privacyDisconnect = 'privacy_disconnect';
+  static final privacyConnect = 'privacy_connect';
+  static final privacyLater = 'privacy_later';
+  static final settingsLanguage = 'settings_language';
+  static final signOut = 'settings_signOut';
+  static final journalSharing = 'settings_journal_sharing';
+  static final showProgress = 'my_profile_show_progress';
+}

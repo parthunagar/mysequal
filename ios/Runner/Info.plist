@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MySequel</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.813534227335-atfc9squos9bbesbutsk0l455589vnba</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.813534227335-enhae0t8l2km21mdda3a1igvlsra9mn4</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.651972944100-f7e3j3ehdmlt2idh6r4g2dgsff6pi165</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<string>NO</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Change profile image </string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Add new tasks</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Please enable access to your video camera to capture your daily story video</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Invite new member</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Know your behavioral patterns, MySequel can present you those insights, and notify you on places visited.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Know your behavioral patterns, MySequel can present you those insights, and notify you on places visited.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Know your behavioral patterns, MySequel can present you those insights, and notify you on places visited.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Add Media files to your profile</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Know your behavioral patterns, keep track on your daily activity level</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Please enable access to your media library to select profile image or capture story</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Add new task</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+</dict>
+</plist>

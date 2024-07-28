@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "813534227335",
+    "firebase_url": "https://sequelproduction.firebaseio.com",
+    "project_id": "sequelproduction",
+    "storage_bucket": "sequelproduction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813534227335:android:ab2dda8f73c19f24da0122",
+        "android_client_info": {
+          "package_name": "net.nadsoft.peloton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813534227335-11rtf6uf5gu6q2df1608rto15ur3emdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.nadsoft.peloton",
+            "certificate_hash": "82d18dd8e14469af89690d282031c249051e8de0"
+          }
+        },
+        {
+          "client_id": "813534227335-a94r8np1h3ph1jqqfudiehpfqae5iqtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.nadsoft.peloton",
+            "certificate_hash": "925b5300bd31d70325ba8c581e60507c849660a2"
+          }
+        },
+        {
+          "client_id": "813534227335-qp940265jpjgno98qg7hdq57tll8570r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.nadsoft.peloton",
+            "certificate_hash": "62b792940171775ab7345f022521493e3b999483"
+          }
+        },
+        {
+          "client_id": "813534227335-tph50jlp4b711qa31papfbfgkd6dg629.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.nadsoft.peloton",
+            "certificate_hash": "5d9e1a9fce063a3cfd4937278ba5d939cb31f314"
+          }
+        },
+        {
+          "client_id": "813534227335-g7ro9g4eml3fuodcblhj4v8ov15rpm7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC9ElHLOi0VgdFTHXel8vIYvZJcPywRPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813534227335-g7ro9g4eml3fuodcblhj4v8ov15rpm7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "813534227335-atfc9squos9bbesbutsk0l455589vnba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.nadsoft.peloton",
+                "app_store_id": "1532610996"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
